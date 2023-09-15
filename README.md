@@ -4,7 +4,7 @@
 - 🌱 I am an Information Systems student and training in Junior ASP.NET MVC Developer.
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Marcosvco13&show_icons=true&theme=radical"
+  srcset="https://github-readme-stats.vercel.app/api?username=gustavo-duartee&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
 />
 <source
